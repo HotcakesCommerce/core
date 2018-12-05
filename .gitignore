@@ -103,11 +103,14 @@ Thumbs.db
 # Folder config file
 Desktop.ini
 
+[Ww]ebsite/[Aa]pp_[Cc]ode
+[Ww]ebsite/[Aa]pp_[Dd]ata
+![Ww]ebsite/[Aa]pp_[Dd]ata/[Pp]lace[Hh]older.txt
 [Ww]ebsite/[Aa]pp_[Dd]ata
 [Ww]ebsite/[Bb]in
 [Ww]ebsite/[Bb]in/[Hh]otcakes.*
 [Ww]ebsite/[Dd]esktop[Mm]odules/[Hh]otcakes/[Bb]in
-[Ww]ebsite/[Ii]nstall/[Tt]emp/
+[Ww]bsite/[Ii]nstall/[Tt]emp/
 [Ww]ebsite/[Ii]nstall/*/*.zip
 [Ww]ebsite/[Ii]nstall/*/*.resources
 [Ww]ebsite/[Ii]nstall/[Cc]leanup
